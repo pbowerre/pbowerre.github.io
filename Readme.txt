@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+thanks for visiting this page
 
-Template Name: Logis
-Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+you can dowload and edit this software
+this software was built for my school project
